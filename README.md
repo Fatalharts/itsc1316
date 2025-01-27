@@ -1,2 +1,2 @@
-# itsc1316
+# ITSC1316
 Linux Class
